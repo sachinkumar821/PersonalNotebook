@@ -1,4 +1,4 @@
-# iNotebook
+# iPersonalNotebook
 
 This repository contains the code of a cloud notebook app using MERN stack, Bootstrap, Animate CSS & Materials Icon etc. The project creates the visual designs, animations, different sections, databases & all other parts which are required and necessary for building a notebook application.
 
@@ -28,9 +28,9 @@ This repository contains the code of a cloud notebook app using MERN stack, Boot
 - [JSON Web Token](https://jwt.io/) - Authenticator
 - [Express Validator](https://express-validator.github.io) - Validator
 
-## Getting Started (Backend)
 
-[Link to iNotebook Backend](https://github.com/Mubassim-Khan/iNotebook-Backend) - Backend 
+
+
 
 * Note: Follow these steps incase you are running Backend and Front-End seperately
 
@@ -62,13 +62,10 @@ To get started with this project, follow these steps:
 * Note: Follow these steps incase you are running Backend and Front-end concurrently
 
 1. Clone these repositories:
-```bash
-git clone https://github.com/Mubassim-Khan/iNotebook/git
-```
 
-```bash
-git clone https://github.com/Mubassim-Khan/iNotebook-Backend.git
-```
+
+
+
 
 2. Place Backend in root of your project directory. 
 
