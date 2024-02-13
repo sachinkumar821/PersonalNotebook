@@ -37,9 +37,7 @@ This repository contains the code of a cloud notebook app using MERN stack, Boot
 To get started with Backend project, follow these steps:
 
 1. Clone the repository:
-```bash
-git clone https://github.com/Mubassim-Khan/iNotebook-Backend.git
-```
+
 2. Create a .env file in your project root directory
 
 3. Initialize 3 env variables, named as:
